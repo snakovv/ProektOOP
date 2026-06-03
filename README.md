@@ -101,6 +101,6 @@ Signal <|-- WasteIssue
 
 Група: Forinfo
 
-- Симеон Наков F122820
-- Виктор Кръстев F123472
-- Кристиян Теодосиев F123344
+- Симеон Наков F122820 - https://github.com/snakovv
+- Виктор Кръстев F123472 - https://github.com/b3t3
+- Кристиян Теодосиев F123344 - https://github.com/kristian234 / https://github.com/abanana23
