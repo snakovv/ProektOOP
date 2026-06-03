@@ -96,3 +96,11 @@ Signal <|-- LightingIssue
 Signal <|-- WasteIssue
 @enduml
 ```
+
+## Направено от
+
+Група: Forinfo
+
+- Симеон Наков F122820
+- Виктор Кръстев F123472
+- Кристиян Теодосиев F123344
