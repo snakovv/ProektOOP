@@ -12,7 +12,7 @@ void printMenu()
 	cout << "\n===== VillageAlert =====\n";
 	cout << "1. Submit Signal\n";
 	cout << "2. Show All Signals\n";
-	cout << "3. Change Status (admin)\n";
+	cout << "3. Change Status\n";
 	cout << "4. Delete Signal\n";
 	cout << "0. Exit\n";
 	cout << "Choice: ";
